@@ -1,3 +1,5 @@
 1. aaa
 2. change user.name use git config --local
 3. git config --local core.editor "" 改变默认的编辑器
+4. 初次克隆某个仓库的时候，工作目录中的所有文件都属于已跟踪文件，并处于未修改状态，因为 Git 刚刚检出了它们， 而你尚未编辑过它们。
+5. git status -s 查看简短状态命令
