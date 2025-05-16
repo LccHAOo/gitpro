@@ -8,3 +8,4 @@
 8. git rm 从已跟踪文件清单中删除，即从暂存区移除。这样以后就不会出现在未跟踪文件清单中了。。
 9. git diff --staged
 10.git stash添加???而产生冲突例子
+11.git stash branch <branch name>
